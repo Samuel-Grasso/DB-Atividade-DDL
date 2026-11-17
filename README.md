@@ -1,5 +1,10 @@
 # README
 
+PARTICIPANTES:
+- SAMUEL GRASSO
+- MATHEUS IRINEU
+- SÁVIO FRANÇA
+
 # Sumário
 * [A - Executando o docker-compose.yml](#executando-o-docker-composeyml)
 * [B - Usando o SQL Notebook](#usando-o-sql-notebook)
